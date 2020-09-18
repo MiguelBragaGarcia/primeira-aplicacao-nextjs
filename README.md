@@ -1,4 +1,4 @@
-[web](./demonstration/nextjs.gif)
+![web](./demonstration/nextjs.gif)
 
 # Dota 2 Live Games
 É o seu site para acompanhar as partidas que estão acontecendo nesse exato momento no dota 2.
