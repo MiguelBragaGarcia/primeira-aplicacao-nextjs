@@ -83,7 +83,7 @@ const Games:NextPage = ({games}) => {
 }
 
 Games.getInitialProps = async () => {
-        const response = await api.get<GameInfo[]>("https://api.opendota.com/api/live" )
+        const response = await api.get<GameInfo[]>("live" )
         return {games:response.data}
 
 }
